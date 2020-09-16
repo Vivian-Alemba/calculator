@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: lightslategray;
+}
+.border-radius{
+    border-radius: 10px;
+}
